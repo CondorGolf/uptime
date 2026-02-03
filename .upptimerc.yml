@@ -17,6 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
+  themeUrl: https://condorgolf.github.io/uptime/theme.css
   logoUrl: https://framerusercontent.com/images/FVHNKjzA4P90MkN7AffOzXusDA.png
   name: Condor Status
   introTitle: "**CondorGolf** status page."
