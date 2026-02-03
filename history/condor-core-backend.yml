@@ -1,7 +1,7 @@
-url: https://api.condorgolf.ai
-status: down
-code: 404
-responseTime: 265
-lastUpdated: 2026-02-03T23:19:17.762Z
+url: https://api.condorgolf.ai/meta
+status: up
+code: 200
+responseTime: 426
+lastUpdated: 2026-02-03T23:21:45.073Z
 startTime: 2026-02-03T23:08:37.864Z
 generator: Upptime <https://github.com/upptime/upptime>
