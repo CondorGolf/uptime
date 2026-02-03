@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.condorgolf.ai.ico",
     "slug": "condor-core-backend",
     "status": "up",
-    "uptime": "1.21%",
-    "uptimeDay": "1.21%",
-    "uptimeWeek": "1.21%",
-    "uptimeMonth": "1.21%",
-    "uptimeYear": "1.21%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 347,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
-    "dailyMinutesDown": {
-      "2026-02-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Condor Communication service",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor-communication-prod-3abb1d327c82.herokuapp.com.ico",
     "slug": "condor-communication-service",
     "status": "up",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2026-02-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Condor AI service",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/condor-ai-production-14b7337cf201.herokuapp.com.ico",
     "slug": "condor-ai-service",
     "status": "up",
-    "uptime": "0.55%",
-    "uptimeDay": "0.55%",
-    "uptimeWeek": "0.55%",
-    "uptimeMonth": "0.55%",
-    "uptimeYear": "0.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 314,
     "timeDay": 314,
     "timeWeek": 314,
     "timeMonth": 314,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2026-02-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Condor Web Application",
