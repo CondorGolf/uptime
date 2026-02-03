@@ -10,7 +10,7 @@ sites:
   - name: Condor AI service
     url: https://condor-ai-production-14b7337cf201.herokuapp.com/health
   - name: Condor Web Application
-    url: https://app.condorgolf.ai/health
+    url: https://app.condorgolf.ai/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
