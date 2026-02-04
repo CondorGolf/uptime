@@ -18,8 +18,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /uptime
   themeUrl: https://condorgolf.github.io/uptime/theme.css
-  logoUrl: https://framerusercontent.com/images/FVHNKjzA4P90MkN7AffOzXusDA.png
-  name: "CondorGolf status"
+  logoUrl: https://lh3.googleusercontent.com/J2jD7nN0Hd-0mUE3IDHyEJqZduq-d0-MOIE3PR_ufpYWShOsjPA9z5GRuJudC3JJgfi-
+  name: "Condor Golf status"
   # introTitle: "**CondorGolf** status page."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # navbar:
