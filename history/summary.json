@@ -58,19 +58,19 @@
     "url": "https://app.condorgolf.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/app.condorgolf.ai.ico",
     "slug": "condor-web-application",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 347,
-    "timeDay": 347,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "94.33%",
+    "uptimeDay": "94.33%",
+    "uptimeWeek": "94.33%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "94.33%",
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2026-02-04": 0
+      "2026-02-04": 21
     }
   }
 ]
