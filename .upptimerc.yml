@@ -3,13 +3,13 @@ owner: CondorGolf # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: Condor Core Backend
+  - name: Core Backend
     url: https://api.condorgolf.ai/meta
-  - name: Condor Communication service
+  - name: Communication service
     url: https://condor-communication-prod-3abb1d327c82.herokuapp.com/health
-  - name: Condor AI service
+  - name: AI service
     url: https://condor-ai-production-14b7337cf201.herokuapp.com/health
-  - name: Condor Web Application
+  - name: Web Application
     url: https://app.condorgolf.ai/
 
 status-website:
