@@ -9,7 +9,7 @@ sites:
     url: https://condor-communication-prod-3abb1d327c82.herokuapp.com/health
   - name: AI service
     url: https://condor-ai-production-14b7337cf201.herokuapp.com/health
-  - name: Web Application
+  - name: Web Applications
     url: https://app.condorgolf.ai/
 
 status-website:
