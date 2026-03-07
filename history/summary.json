@@ -58,18 +58,19 @@
     "url": "https://app.condorgolf.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/app.condorgolf.ai.ico",
     "slug": "web-applications",
-    "status": "up",
-    "uptime": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 307,
     "timeDay": 370,
     "timeWeek": 381,
     "timeMonth": 302,
     "timeYear": 307,
     "dailyMinutesDown": {
+      "2026-03-07": 0,
       "2026-02-17": 149
     }
   }
