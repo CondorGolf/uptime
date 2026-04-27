@@ -4,10 +4,10 @@
     "url": "https://api.condorgolf.ai/meta",
     "icon": "https://icons.duckduckgo.com/ip3/api.condorgolf.ai.ico",
     "slug": "core-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
@@ -15,7 +15,9 @@
     "timeWeek": 196,
     "timeMonth": 244,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-27": 1
+    }
   },
   {
     "name": "Communication service",
@@ -58,7 +60,7 @@
     "url": "https://app.condorgolf.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/app.condorgolf.ai.ico",
     "slug": "web-applications",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +72,7 @@
     "timeMonth": 287,
     "timeYear": 294,
     "dailyMinutesDown": {
+      "2026-04-27": 0,
       "2026-02-17": 149
     }
   }
