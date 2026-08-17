@@ -4,20 +4,20 @@
     "url": "https://api.condorgolf.ai/meta",
     "icon": "https://icons.duckduckgo.com/ip3/api.condorgolf.ai.ico",
     "slug": "core-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 218,
-    "timeDay": 237,
-    "timeWeek": 225,
-    "timeMonth": 204,
+    "timeDay": 149,
+    "timeWeek": 205,
+    "timeMonth": 200,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2026-04-27": 36,
-      "2026-08-17": 5
+      "2026-08-17": 6
     }
   },
   {
@@ -66,21 +66,21 @@
     "url": "https://app.condorgolf.ai/",
     "icon": "https://icons.duckduckgo.com/ip3/app.condorgolf.ai.ico",
     "slug": "web-applications",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 437,
-    "timeDay": 645,
-    "timeWeek": 693,
-    "timeMonth": 637,
-    "timeYear": 437,
+    "time": 436,
+    "timeDay": 449,
+    "timeWeek": 638,
+    "timeMonth": 625,
+    "timeYear": 436,
     "dailyMinutesDown": {
       "2026-02-17": 149,
       "2026-04-27": 36,
-      "2026-08-17": 0
+      "2026-08-17": 1
     }
   }
 ]
